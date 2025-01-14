@@ -1,4 +1,4 @@
-# podcast-prompts
+# Podcast criado com IA
 
  Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
 
